@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Zuliani</h1>
-<h3 align="center">I'm a bootcamp graduate and lifelong learner with a passion for web development</h3>
+<h3 align="center">I'm a BrainStation Software Engineering graduate and lifelong learner with a passion for web development</h3>
 
 - 🔭 I’m currently working on [MobX To-Do App](https://github.com/JamesZuliani/mobx-to-do)
 
